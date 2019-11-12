@@ -21,9 +21,9 @@ The approach in turn relies on the Ng-Jordan-Weiss (2002) algorithm (NJW), which
 
 ***
 
-1. Select the group with the lowest conductance _ϕ_: Calculate e<sub>2<\sub> from step (b) in NJW for each group of designs. Label the group with the smallest e<sub>2</sub> as **G**<sub>T<\sub>. Label the corresponding e_2 as ϕ_T. (Note that there is only one group in first iteration, so〖 G〗_T=G_1).
-2. Partition G_T into two groups: Partition G_T into two groups G_T1 and G_T2  using NJW. 
-3. Evaluate if partitioning is to continue: measure conductance ϕ over all the groups that created thus far, and label the lowest value identified ϕ_TNext. Stop if ϕ_TNext>Δ+ϕ_T. Else, repeat Steps 1-3. 
+1. Select the group with the lowest conductance _ϕ_: Calculate e<sub>2</sub> from step (b) in NJW for each group of designs. Label the group with the smallest e<sub>2</sub> as **G**<sub>T</sub>. Label the corresponding e<sub>2</sub> as ϕ<sub>T</sub>. (Note that there is only one group in first iteration, so G<sub>T</sub>=G<sub>1</sub>).
+2. Partition G<sub>T</sub> into two groups: Partition G<sub>T</sub> into two groups G<sub>T1</sub> and G<sub>T2</sub>  using NJW. 
+3. Evaluate if partitioning is to continue: measure conductance ϕ over all the groups that created thus far, and label the lowest value identified ϕ<sub>TNext</sub>. Stop if ϕ<sub>TNext</sub>>Δ+ϕ<sub>T</sub>. Else, repeat Steps 1-3. 
 
 NJW:
 a.	Compute the normalized graph Laplacian matrix L=I-D^(1/2) SD^(1/2) where I is the identity matrix and D is a diagonal matrix with each entry the degree of the vertex.
@@ -31,6 +31,8 @@ b.	Compute the two smallest eigenvalues ${e_1,e_2}$ and their associated eigenve
 c.	Let U∈R^(n×2) be the matrix containing {u_1,u_2} as columns.
 d.	Normalize the rows of  U to unit lengths (i.e., length = 1).
 e.	Treat every row as a point in space, and use K-means (two groups) to group the n data points.
+
+***
 
 
 ### measuring "decomposability" of a (utility) patent

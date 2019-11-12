@@ -4,7 +4,7 @@ title: Dataset
 subtitle: Posting data and pseudocodes
 ---
 
-### styles in designs
+## styles in designs
 
 Product design (or the form of a product) is an important aspect of new product development. This site serves as a repository where I (in collaboration with Jürgen Mihm, and Manuel Sosa) post results, data, and materials for our ongoing research on product design.
 
@@ -14,7 +14,6 @@ The same dataset is also used in a collaboration with Yonghoon Lee (currently wo
 
 ![Beetle](https://cdn.shopify.com/s/files/1/0101/8547/4107/products/A1dGir4nbIL._SL1500_540x.jpg)
 
-#### Pseudocode to generate styles 
 Attached is the pseudocode if you wish to identify styles on a dataset of designs (first you need a measure of similarity between them). 
 
 The approach in turn relies on the Ng-Jordan-Weiss (2002) algorithm (NJW), which approximately partitions a group of objects into two groups by minimizing conductance (a graph measure of heterogeneity). The evaluate step stops the algorithm corresponding to a post-hoc identified Δ value of about 0.002, at which point a sharp increase in conductance is observed. (The NJW algorithm is popular and you can find ready implementations online, e.g., from [MATLAB central](https://www.mathworks.com/matlabcentral/fileexchange/44879-spectral-clustering)).  
@@ -36,7 +35,7 @@ NJW:
 ***
 
 
-### measuring "decomposability" of a (utility) patent
+## measuring "decomposability" of a (utility) patent
 
 Patent claims are written in such a strict way that the _subject matter_ of the claim - that is, the thing that the idea the claim protects - can be fairly easily identified. This in turn allows to measure the degree to which a patent is **decomposable**. We say an invention is more decomposable (or modular) if it has more subject matters identified in this way. Conversely, it is less decomposable (or integral) if it has less subject matters identified in this way. 
 

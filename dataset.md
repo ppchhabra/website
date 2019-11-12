@@ -15,12 +15,11 @@ The same dataset is also used in a collaboration with Yonghoon Lee (currently wo
 ![Beetle](https://cdn.shopify.com/s/files/1/0101/8547/4107/products/A1dGir4nbIL._SL1500_540x.jpg)
 
 #### Pseudocode to generate styles 
-The approach in turn relies on the Ng-Jordan-Weiss (2002) algorithm (NJW), which approximately partitions a group of objects into two groups by minimizing conductance (a graph measure of heterogeneity). The evaluate step stops the algorithm corresponding to a post-hoc identified Δ value of about 0.002, at which point a sharp increase in conductance is observed.  
+Attached is the pseudocode if you wish to identify styles on a dataset of designs (first you need a measure of similarity between them). 
 
+The approach in turn relies on the Ng-Jordan-Weiss (2002) algorithm (NJW), which approximately partitions a group of objects into two groups by minimizing conductance (a graph measure of heterogeneity). The evaluate step stops the algorithm corresponding to a post-hoc identified Δ value of about 0.002, at which point a sharp increase in conductance is observed. (The NJW algorithm is popular and you can find ready implementations online, e.g., from MATLAB central).  
 
-Specifically, given two designs A and B along with their set of backward citations CA and CB, we capture the degree of overlap as the Jaccard index |CA"⋂" CB| / |CA"⋃" CB|. If one of the designs have the other in its reference list, we account for the direct reference by adding to the previous measure 1/|CA| (normalizing by the size of the reference list, and supposing, without loss of generality, that A has B in its reference list). 
-
-
+~~~
 1. Select the group with the lowest conductance ϕ: Calculate e_2 from step (b) in NJW for each group of designs. Label the group with the smallest e_2 as〖 G〗_T. Label the corresponding e_2 as ϕ_T. (Note that there is only one group in first iteration, so〖 G〗_T=G_1).
 2. Partition G_T into two groups: Partition G_T into two groups G_T1 and G_T2  using NJW. 
 3. Evaluate if partitioning is to continue: measure conductance ϕ over all the groups that created thus far, and label the lowest value identified ϕ_TNext. Stop if ϕ_TNext>Δ+ϕ_T. Else, repeat Steps 1-3. 
@@ -31,7 +30,7 @@ b.	Compute the two smallest eigenvalues {e_1,e_2} and their associated eigenvect
 c.	Let U∈R^(n×2) be the matrix containing {u_1,u_2} as columns.
 d.	Normalize the rows of  U to unit lengths (i.e., length = 1).
 e.	Treat every row as a point in space, and use K-means (two groups) to group the n data points.
-
+~~~
 
 ### measuring "decomposability" of a (utility) patent
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Revisiting the Role of Collaboration in Creating Breakthrough Inventions
-subtitle: (Manufacturing & Service Operations Management Forthcoming) with Jürgen Mihm and Manuel Sosa 
+subtitle: (Manufacturing & Service Operations Management, Forthcoming) with Jürgen Mihm and Manuel Sosa 
 tags: [product design, technology, collaboration, innovation]
 ---
 

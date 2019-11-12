@@ -38,6 +38,11 @@ NJW:
 
 ### measuring "decomposability" of a (utility) patent
 
+Patent claims are written in such a strict way that the _subject matter_ of the claim - that is, the thing that the idea the claim protects - can be fairly easily identified. This in turn allows to measure the degree to which a patent is **decomposable**. We say an invention is more decomposable (or modular) if it has more subject matters identified in this way. Conversely, it is less decomposable (or integral) if it has less subject matters identified in this way. 
+
+I use this approach to show that an inventor is more likely to create breakthroughs when working alone (compared to working with others) especially when working on integral inventions. (see [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2962348)) 
+
+There is another working paper showing that teams with women members also outperform all-men teams when working on integral inventions (Invention Integrality and Team Gender Composition). 
 
 ***
 
@@ -50,7 +55,7 @@ NJW:
 (e.g., “outer free end”, “elastic strip”, “bioprosthetic mitral valve replacement”).
 3.	If the claim is dependent:
 *	Take the sentence starting after “claim #”—for example, from the text “A mitral valve replacement as in claim 1, wherein the base is…” use only “wherein the base is…”.
-*	Return to steps a.–d. of Step 2.
+*	Return to the substeps of Step 2.
 4.	Count the number of distinct subject matter in the patent.
 
 

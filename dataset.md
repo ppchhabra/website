@@ -26,7 +26,7 @@ The approach in turn relies on the Ng-Jordan-Weiss (2002) algorithm (NJW), which
 
 NJW:
 a.	Compute the normalized graph Laplacian matrix L=I-D^(1/2) SD^(1/2) where I is the identity matrix and D is a diagonal matrix with each entry the degree of the vertex.
-b.	Compute the two smallest eigenvalues {e_1,e_2} and their associated eigenvectors {u_1,u_2} 
+b.	Compute the two smallest eigenvalues ${e_1,e_2}$ and their associated eigenvectors ${u_1,u_2}$ 
 c.	Let U∈R^(n×2) be the matrix containing {u_1,u_2} as columns.
 d.	Normalize the rows of  U to unit lengths (i.e., length = 1).
 e.	Treat every row as a point in space, and use K-means (two groups) to group the n data points.

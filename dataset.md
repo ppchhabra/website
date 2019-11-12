@@ -43,6 +43,8 @@ I use this approach to show that an inventor is more likely to create breakthrou
 
 There is another working paper showing that teams with women members also outperform all-men teams when working on integral inventions (Invention Integrality and Team Gender Composition). 
 
+Check out the pseudocode below. The pseudocode requires [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) to identify the noun phrase. 
+
 ***
 
 1.	For each claim, identify whether it is independent or dependent by using a regular-expression search for the term “claim #”, where # signifies any number.

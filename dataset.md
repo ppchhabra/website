@@ -20,7 +20,7 @@ The approach in turn relies on the Ng-Jordan-Weiss (2002) algorithm (NJW), which
 
 ***
 
-1. Select the group with the lowest conductance ϕ: Calculate e<sub>2</sub> from step (b) in NJW for each group of designs. Label the group with the smallest e<sub>2</sub> as **G**<sub>T</sub>. Label the corresponding e<sub>2</sub> as ϕ<sub>T</sub>. (Note that there is only one group in first iteration, so G<sub>T</sub>=G<sub>1</sub>).
+1. Select the group with the lowest conductance ϕ: Calculate e<sub>2</sub> from step (b) in NJW for each group of designs. Label the group with the smallest e<sub>2</sub> as G<sub>T</sub>. Label the corresponding e<sub>2</sub> as ϕ<sub>T</sub>. (Note that there is only one group in first iteration, so G<sub>T</sub>=G<sub>1</sub>).
 2. Partition G<sub>T</sub> into two groups: Partition G<sub>T</sub> into two groups G<sub>T1</sub> and G<sub>T2</sub>  using NJW. 
 3. Evaluate if partitioning is to continue: measure conductance ϕ over all the groups that created thus far, and label the lowest value identified ϕ<sub>TNext</sub>. Stop if ϕ<sub>TNext</sub>>Δ+ϕ<sub>T</sub>. Else, repeat Steps 1-3. 
 
@@ -37,7 +37,7 @@ NJW:
 
 ## measuring "decomposability" of a (utility) patent
 
-Patent claims are written in such a strict way that the _subject matter_ of the claim - that is, the thing that the idea the claim protects - can be fairly easily identified. This in turn allows to measure the degree to which a patent is **decomposable**. We say an invention is more decomposable (or modular) if it has more subject matters identified in this way. Conversely, it is less decomposable (or integral) if it has less subject matters identified in this way. 
+Patent claims are written in such a strict way that the _subject matter_ of the claim - that is, the thing that the idea the claim protects - can be fairly easily identified. This in turn allows to measure the degree to which a patent is **decomposable**. We say an invention is more decomposable (or modular) if it has more subject matters identified in this way. Conversely, it is less decomposable (or integral) if it has less subject matters identified in this way. (The intuition is that the more subject matters identified in an invention, the more one can apply ideas to individual parts of the invention without changing the rest). 
 
 I use this approach to show that an inventor is more likely to create breakthroughs when working alone (compared to working with others) especially when working on integral inventions. (see [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2962348)) 
 

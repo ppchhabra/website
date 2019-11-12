@@ -10,7 +10,7 @@ Product design (or the form of a product) is an important aspect of new product 
 
 The styles dataset (found [here](https://drive.google.com/open?id=1s6iJnyxDbWrNXFv0RCjiLY3ubK2eIxZ7)) came out of this [paper](https://pubsonline.informs.org/doi/10.1287/mnsc.2016.2653): using design patent data granted from 1977-2010, we categorized over 350,000 designs into over 9,000 styles (or categories of designs that are perceived to be visually similar).
 
-The same dataset is also used in a collaboration with Yonghoon Lee (currently working). If you use the data or would propose improvements / alternatives to our approach, please also let us know and we are happy to improve the approach over time, and acknowledge your work.
+The same dataset is also used in a collaboration with Yonghoon Lee (currently a working paper). If you use the data or would propose improvements / alternatives to our approach, please also let us know and we are happy to improve the approach over time, and acknowledge your work.
 
 ![Beetle](https://cdn.shopify.com/s/files/1/0101/8547/4107/products/A1dGir4nbIL._SL1500_540x.jpg)
 
@@ -41,7 +41,7 @@ Patent claims are written in such a strict way that the _subject matter_ of the 
 
 I use this approach to show that an inventor is more likely to create breakthroughs when working alone (compared to working with others) especially when working on integral inventions. (see [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2962348)) 
 
-There is another working paper showing that teams with women members also outperform all-men teams when working on integral inventions (Invention Integrality and Team Gender Composition). 
+I have another working paper (with Steffen Keck, Haibo Liu, and Wenjie Tang) showing that teams with women members also outperform all-men teams when working on integral inventions (Invention Integrality and Team Gender Composition). 
 
 Check out the pseudocode below. The pseudocode requires [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) to identify the noun phrase. 
 

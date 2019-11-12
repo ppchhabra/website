@@ -22,7 +22,8 @@ description: Assistant Prof @ Emory University.
 navbar-links:
   About Me: "aboutme"
   Dataset: "dataset"
-  Author's home: "http://www.thchan.me"
+  Research: "http://www.thchan.me"
+  
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"

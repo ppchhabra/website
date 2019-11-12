@@ -39,17 +39,19 @@ NJW:
 ### measuring "decomposability" of a (utility) patent
 
 
+***
+
 1.	For each claim, identify whether it is independent or dependent by using a regular-expression search for the term “claim #”, where # signifies any number.
 2.	If the claim is independent:
-a.	Break down the claim into individual words.
-b.	Tag each word in the claim with its type: noun, adjective, verb, etc.
-c.	Identify the root for each word (e.g., reduce the word “surfaces” to “surface”).
-d.	Identify the subject matter for the claim based on first-occurring noun phrase with adjectives 
+*	Break down the claim into individual words.
+*	Tag each word in the claim with its type: noun, adjective, verb, etc.
+*	Identify the root for each word (e.g., reduce the word “surfaces” to “surface”).
+*	Identify the subject matter for the claim based on first-occurring noun phrase with adjectives 
 (e.g., “outer free end”, “elastic strip”, “bioprosthetic mitral valve replacement”).
 3.	If the claim is dependent:
-a.	Take the sentence starting after “claim #”—for example, from the text “A mitral valve replacement as in claim 1, wherein the base is…” use only “wherein the base is…”.
-b.	Return to steps a.–d. of Step 2.
+*	Take the sentence starting after “claim #”—for example, from the text “A mitral valve replacement as in claim 1, wherein the base is…” use only “wherein the base is…”.
+*	Return to steps a.–d. of Step 2.
 4.	Count the number of distinct subject matter in the patent.
 
 
-
+***

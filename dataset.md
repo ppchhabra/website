@@ -17,7 +17,7 @@ The same dataset is also used in a collaboration with Yonghoon Lee (currently wo
 #### Pseudocode to generate styles 
 Attached is the pseudocode if you wish to identify styles on a dataset of designs (first you need a measure of similarity between them). 
 
-The approach in turn relies on the Ng-Jordan-Weiss (2002) algorithm (NJW), which approximately partitions a group of objects into two groups by minimizing conductance (a graph measure of heterogeneity). The evaluate step stops the algorithm corresponding to a post-hoc identified Δ value of about 0.002, at which point a sharp increase in conductance is observed. (The NJW algorithm is popular and you can find ready implementations online, e.g., from MATLAB central).  
+The approach in turn relies on the Ng-Jordan-Weiss (2002) algorithm (NJW), which approximately partitions a group of objects into two groups by minimizing conductance (a graph measure of heterogeneity). The evaluate step stops the algorithm corresponding to a post-hoc identified Δ value of about 0.002, at which point a sharp increase in conductance is observed. (The NJW algorithm is popular and you can find ready implementations online, e.g., from [MATLAB central](https://www.mathworks.com/matlabcentral/fileexchange/44879-spectral-clustering)).  
 
 ~~~
 1. Select the group with the lowest conductance ϕ: Calculate e_2 from step (b) in NJW for each group of designs. Label the group with the smallest e_2 as〖 G〗_T. Label the corresponding e_2 as ϕ_T. (Note that there is only one group in first iteration, so〖 G〗_T=G_1).

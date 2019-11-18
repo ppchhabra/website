@@ -4,7 +4,7 @@
 title: Innovation, Operations, Collaboration
 
 # Short description of your site
-description: Assistant Prof @ Emory University.
+description: PhD Candidate @ Georgia Institute of Technology.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,7 @@ description: Assistant Prof @ Emory University.
 navbar-links:
   About Me: "aboutme"
   Dataset: "dataset"
-  Research: "https://thchan.me"
+  Research: "https://ppchhabra.me"
   
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -62,18 +62,18 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Tian Chan
+  name: Param Chhabra
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  email: "tian.chan@emory.edu"
-  googlescholar: citations?user=LL2ZMiIAAAAJ
-  researchgate: Tian_Chan2
-  linkedin: tian-chan
-  github: tian-chan
+  email: "param.chhabra@scheller.gatech.edu"
+  googlescholar: citations?user=XsK3oz0AAAAJ
+  researchgate: Param_Pal_Singh_Chhabra
+  linkedin: ppchhabra
+  github: ppchhabra
 
 #  rss: false
 #  facebook: deanattali
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "thchan.me"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ppchhabra.me"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -107,7 +107,7 @@ url-pretty: "thchan.me"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: UA-64288573-4
+google_analytics: UA-64288573-4//1
 
 # Google Tag Manager ID
 #gtm: ""

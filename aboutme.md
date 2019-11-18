@@ -8,10 +8,10 @@ My name is Param. I am a PhD Candidate of Operations Management @ Georgia Instit
 
 ### research interests
 
-These are topics I'm broadly interested in: New product / service development, design management, empirical operations, teams, patents.
+These are topics I'm broadly interested in: New product development / service design, empirical operations, teams, patents, and gig economy.
 
 ### my history
 
-I grew up in India. I love to play indoor/outdoor games, listen to music, spending time with family and friends and reading about new research. I also received my B.E degree from NIT Jalandhar, India, and ME degree from Indian Institute of Sciences, Bangalore, India. I am currently pursuing my PhD degree from Gerogia Tech. Before my PhD, I worked for about more than ten years in aerospace domain as a Scientist/designer/analyst/manager at Indian Defence Research Organization, Infosys and General Electric. 
+I grew up in India. I love to play indoor/outdoor games, listen to music, spending time with family and friends and reading about new research. I also received my B.E degree from NIT Jalandhar, India, and ME degree from Indian Institute of Sciences, Bangalore, India. I am currently pursuing my PhD degree from Gerogia Tech. Before my PhD, I worked for about more than ten years with small/large in aerospace domain as a Scientist/designer/analyst/manager at Indian Defence Research Organization, Infosys and General Electric. I also got opportunity to work on commercial aircraft projects at Airbus, Toulouse, France, and Triumph Aerostructures Vought Aircraft Division at Dallas, Texas, USA.
 
-![Tian](img/squaremug.png)
+![Param](img/squaremug.png)

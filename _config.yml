@@ -22,7 +22,7 @@ description: PhD Candidate @ Georgia Institute of Technology.
 navbar-links:
   About Me: "aboutme"
   #Dataset: "dataset"
-  Research: "https://ppchhabra.github.io/param-chhabra.github.io/"
+  Research: "https://param-chhabra.github.io/"
   
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

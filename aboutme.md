@@ -4,7 +4,7 @@ title: About Me
 subtitle: PhD Candidate @ Georgia Institute of Technology
 ---
 
-My name is Param Chhabra. I am a PhD Candidate of Operations Management @ Georgia Institute of Technology's Scheller College of Business. I also teach the undergraduate operations management course at the Scheller College of Business. This is my [CV](https://drive.google.com/file/d/1uqk6nQfHkdkdUoSPxBd935MoAoseOirn/view//1).
+My name is Param Chhabra. I am a PhD Candidate of Operations Management @ Georgia Institute of Technology's Scheller College of Business. I also teach the undergraduate operations management course at the Scheller College of Business. This is my [CV](https://drive.google.com/file/d/1uqk6nQfHkdkdUoSPxBd935MoAoseOirn/view1//1).
 
 ### Research Interests
 

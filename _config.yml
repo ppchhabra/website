@@ -20,8 +20,8 @@ description: PhD Candidate @ Georgia Institute of Technology.
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "https://ppchhabra.github.io/"
   About Me: "aboutme"
+  Research: "https://ppchhabra.github.io/"
   #Dataset: "dataset"
     
 #  Resources:

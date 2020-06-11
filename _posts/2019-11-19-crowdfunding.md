@@ -2,7 +2,7 @@
 layout: post
 title: Designing Reward Structure for Crowdfuning Campaigns
 subtitle: Working Paper  
-tags: [reward-based, crowdfunding, entrepreneurship, information assymetry]
+tags: [reward-based, crowdfunding, entrepreneurship, information asymmetry]
 ---
 
 with Manpreet Hora and Karthik Ramachandran.

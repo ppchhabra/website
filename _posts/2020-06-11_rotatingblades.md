@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Superconvergent Finite Element for Coupled Torsional-Flexural-Axial Vibration Analysis of Rotating Blades
-subtitle: Published 
-tags: [Rotating blades, Finite element method, Free vibrations, Shape functions, Exact solutions, Fast convergence]
+subtitle: International Journal for Computational Methods in Engineering Science and Mechanics 2010
+tags: [rotating blades, finite element method, free vibrations, shape functions]
 ---
 
 with Ranjan Ganguli.

@@ -8,7 +8,7 @@ My name is Param Chhabra. I am a PhD Candidate of Operations Management @ Georgi
 
 ### Research Interests
 
-These are topics I'm broadly interested in: New product development / service design, empirical operations, teams, patents, digital marketplaces and gig economy.
+These are the topics I'm broadly interested in: Empirical Operations Management, Operations of Online Marketplaces, New Product Development, Crowdfunding, Innovation, Interface of Operations, Marketing and Finance.
 
 ### My History
 

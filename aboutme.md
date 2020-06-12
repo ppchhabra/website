@@ -12,6 +12,6 @@ These are the topics I'm broadly interested in: Empirical Operations Management,
 
 ### My History
 
-I grew up in India. I love to play indoor/outdoor games, listen to music, spending time with family and friends and reading about new research. I received my B.Tech. degree from NIT Jalandhar, India, and M.E. degree from Indian Institute of Sciences, Bangalore, India. I am currently pursuing my PhD degree from Gerogia Tech. Before my PhD, I worked for more than ten years in Aerospace domain at GE Aviation, Infosys Technologies and Ministry of Defence designing and developing aero structures and engines.
+I am conducting empirical research in the fields of online marketplaces, new product development, and innovation with a specific focus on improving outcomes of entrepreneurs and inventors. Having received a Bachelor of Technology degree from NIT Jalandhar, India, and Masters of Engineering degree from the Indian Institute of Sciences, Bangalore, India, I am currently pursuing my Ph.D. degree from Georgia Tech's Scheller College of Bussiness. Before my Ph.D., I worked for over twelve years in the Aerospace domain at GE Aviation, Infosys Technologies, and Ministry of Defence leading projects on design and development of aerostructures and aero engines.
 
 ![Param](img/squaremug.png)

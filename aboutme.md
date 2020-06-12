@@ -12,6 +12,6 @@ These are the topics I'm broadly interested in: Empirical Operations Management,
 
 ### My History
 
-I am conducting empirical research in the fields of online marketplaces, new product development, and innovation with a specific focus on improving outcomes of entrepreneurs and inventors. Having received a Bachelor of Technology degree from NIT Jalandhar, India, and Masters of Engineering degree from the Indian Institute of Sciences, Bangalore, India, I am currently pursuing my Ph.D. degree from Georgia Tech's Scheller College of Bussiness. Before my Ph.D., I worked for over twelve years in the Aerospace domain at GE Aviation, Infosys Technologies, and Ministry of Defence leading projects on design and development of aerostructures and aero engines.
+I am conducting empirical research in the fields of online marketplaces, new product development, and innovation with a specific focus on improving outcomes of entrepreneurs and inventors. Having received a Bachelor of Technology degree from NIT Jalandhar, India, and Masters of Engineering degree from the Indian Institute of Science, Bangalore, India, I am currently pursuing my Ph.D. degree from Georgia Tech's Scheller College of Bussiness. Before my Ph.D., I worked for over twelve years in the Aerospace domain at GE Aviation, Infosys Technologies, and Ministry of Defence leading projects on design and development of aerostructures and aero engines.
 
 ![Param](img/squaremug.png)

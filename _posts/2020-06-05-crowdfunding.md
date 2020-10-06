@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Designing Reward Structure for Crowdfuning Campaigns
-subtitle: Working Paper  
+subtitle: Submitted to Management Science  
 tags: [crowdfunding, rewards, reward structure, entrepreneurship]
 ---
 

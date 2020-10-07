@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conference Schedule
+title: Job Market
 subtitle: Schedule of Presentations
 ---
 

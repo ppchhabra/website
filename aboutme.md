@@ -4,7 +4,7 @@ title: About Me
 subtitle: Param Chhabra, PhD Candidate at Georgia Institute of Technology
 ---
 
-Being a PhD Candidate of Operations Management at Georgia Institute of Technology's Scheller College of Business, I am conducting empirical research in the fields of online marketplaces, new product development, and innovation with a specific focus on improving outcomes of entrepreneurs and inventors. I have also taught as instructor of Operations Management undergraduate course at the Scheller College of Business. This is my [CV](https://drive.google.com/file/d/1Fu2OzbBZbp10vbxTjxKYcSF-b2y0LDkd/view?usp=sharing).
+Being a PhD Candidate of *Operations Management* at Georgia Institute of Technology's Scheller College of Business, I am conducting empirical research in the fields of new product development, crowdfunding and innovation with a specific focus on improving outcomes of entrepreneurs and inventors. I have also taught as an instructor of *Operations Management* undergraduate course at the Scheller College of Business. This is my [CV](https://drive.google.com/file/d/1Fu2OzbBZbp10vbxTjxKYcSF-b2y0LDkd/view?usp=sharing).
 
 ### Research Interests
 

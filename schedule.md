@@ -4,7 +4,7 @@ title: Conference Schedule
 subtitle: Schedule of Presentations
 ---
 
-I am on the 2020 Job Market. I will be presenting at 2020 INFORMS Virtual Meeting and DSI 2020 Annual Conference.
+I am on the **2020 Job Market**. I will be presenting at *2020 INFORMS Virtual Meeting* and *DSI 2020 Annual Conference*.
 
 ### 2020 INFORMS Virtual Meeting
 

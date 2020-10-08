@@ -9,7 +9,7 @@ Being a PhD Candidate of *Operations Management* at Georgia Institute of Technol
 
 ### Research Interests
 
-These are the topics I'm broadly interested in: Empirical Operations Management, New Product Development, Crowdfunding, Innovation and Entrepreneurship, Operations of Online Platforms, Interface of Operations, Finance, and Marketing.
+These are the topics I'm broadly interested in: Empirical Operations Management, New Product Development, Crowdfunding, Innovation and Entrepreneurship, Operations of Online Platforms, Interface of Operations, Finance, and Marketing, Supply Chain Management.
 
 ### My History
 

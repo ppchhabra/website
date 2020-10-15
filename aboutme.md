@@ -5,7 +5,7 @@ subtitle: Param Chhabra, PhD Candidate at Georgia Tech Scheller College of Busin
 cover-img: "/img/path.jpg"
 ---
 
-Being a PhD Candidate of *Operations Management* at Georgia Institute of Technology's Scheller College of Business, I am conducting empirical research in the fields of new product development, crowdfunding and innovation with a specific focus on improving outcomes of entrepreneurs and inventors under the supervision of [Manpreet Hora](https://www.scheller.gatech.edu/directory/faculty/hora/index.html) and [Karthik Ramachandran](https://www.scheller.gatech.edu/directory/faculty/ramachandran/index.html). I have also taught as an instructor of *Operations Management* undergraduate course at the Scheller College of Business. This is my [CV](https://drive.google.com/file/d/1Fu2OzbBZbp10vbxTjxKYcSF-b2y0LDkd/view?usp=sharing).
+Being a PhD Candidate of *Operations Management* at Georgia Institute of Technology's Scheller College of Business, I am conducting empirical research in the fields of new product development, crowdfunding and innovation with a specific focus on improving outcomes of entrepreneurs and inventors under the supervision of [Manpreet Hora](https://www.scheller.gatech.edu/directory/faculty/hora/index.html) and [Karthik Ramachandran](https://www.scheller.gatech.edu/directory/faculty/ramachandran/index.html). I have also taught *Operations Management* undergraduate course as an instructor at the Scheller College of Business. This is my [CV](https://drive.google.com/file/d/1Fu2OzbBZbp10vbxTjxKYcSF-b2y0LDkd/view?usp=sharing).
 
 ### Research Interests
 
@@ -13,9 +13,9 @@ These are the topics I'm broadly interested in: Empirical Operations Management,
 
 ### My History
 
-Before my Ph.D., I worked for over twelve years in the Aerospace domain at GE Aviation, Infosys Technologies, and Ministry of Defence leading projects on design and development of aerostructures and aero engines. I have also received a Bachelor of Technology degree from NIT Jalandhar, India, and Masters of Engineering degree from the Indian Institute of Science, Bangalore, India.
+Before my Ph.D., I worked for over twelve years in the Aerospace domain at GE Aviation, Quest Global, Infosys Ltd., and Ministry of Defence managing projects on design and development of aerostructures and aero engines. I have also received a Bachelor of Technology degree from NIT Jalandhar, India, and Masters of Engineering degree from the Indian Institute of Science, Bangalore, India.
 
-![Param](img/squaremug.png){: width="200" height="200"}
+![Param](img/squaremug.png){: width="200" height="200" style="float: left"}
 
 ### Contact Details
 

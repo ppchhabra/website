@@ -6,10 +6,9 @@ cover-img: "/img/path.jpg"
 ---
 
 ### Contact Details
-Scheller College of Business
-Georgia Institute of Technology
-800 W Peachtree St NW
-Atlanta. GA-30308.
+Scheller College of Business\\
+Georgia Institute of Technology\\
+800 W Peachtree St NW Atlanta. GA-30308.\\
 Email: param.chhabra@scheller.gatech.edu
 
 

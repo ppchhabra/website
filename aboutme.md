@@ -15,7 +15,7 @@ These are the topics I'm broadly interested in: Empirical Operations Management,
 
 Before my Ph.D., I worked for over twelve years in the Aerospace domain at GE Aviation, Quest Global, Infosys Ltd., and Ministry of Defence managing projects on design and development of aerostructures and aero engines. I have also received a Bachelor of Technology degree from NIT Jalandhar, India, and Masters of Engineering degree from the Indian Institute of Science, Bangalore, India.
 
-![Param](img/squaremug.png){: width="250" height="250"}
+![Param](img/squaremug.png){: width="300" height="300"}
 
 ### Contact Details
 

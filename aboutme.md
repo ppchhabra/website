@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Param Chhabra, PhD Candidate at Georgia Tech Scheller College of Business
+subtitle: Param Chhabra
 cover-img: "/img/path.jpg"
 ---
 

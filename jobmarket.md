@@ -8,7 +8,7 @@ I am on the **2020 Academic Job Market**. I will be presenting at *2020 INFORMS 
 
 ### 2020 INFORMS Virtual Meeting
 
-•	**November 10, 2020** | **4:30 pm to 5:45 pm** | Virtual Room **TD41** | “*Designing Reward Structure for Crowdfunding Campaigns*” (2nd talk).
+**November 10, 2020** | **4:30 pm to 5:45 pm** | Virtual Room **TD41** | “*Designing Reward Structure for Crowdfunding Campaigns*” (2nd talk).
 
 ### DSI 2020 Annual Meeting
 

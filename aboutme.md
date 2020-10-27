@@ -5,11 +5,17 @@ subtitle: Param Chhabra, PhD Candidate at Georgia Tech Scheller College of Busin
 cover-img: "/img/path.jpg"
 ---
 
+Welcome!
+
 Being a PhD Candidate of *Operations Management* at Georgia Institute of Technology's Scheller College of Business, I am conducting empirical research in the fields of new product development, crowdfunding and innovation with a specific focus on improving outcomes of entrepreneurs and inventors under the supervision of [Manpreet Hora](https://www.scheller.gatech.edu/directory/faculty/hora/index.html) and [Karthik Ramachandran](https://www.scheller.gatech.edu/directory/faculty/ramachandran/index.html). I have also taught *Operations Management* undergraduate course as an instructor at the Scheller College of Business. This is my [CV](https://drive.google.com/file/d/1Fu2OzbBZbp10vbxTjxKYcSF-b2y0LDkd/view?usp=sharing).
 
 ### Research Interests
 
-These are the topics I'm broadly interested in: Empirical Operations Management, New Product Development, Crowdfunding, Innovation and Entrepreneurship, Operations of Online Platforms, Interface of Operations, Finance, and Marketing, Supply Chain Management.
+These are the topics I'm broadly interested in: 
+* Empirical Operations Management   * New Product Development
+* Crowdfunding                       * Innovation and Entrepreneurship
+* Operations of Online Platforms      * Interface of Operations, Finance, and Marketing     
+* Supply Chain Management
 
 ### My History
 

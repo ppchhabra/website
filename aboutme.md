@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Me / Contact
 subtitle: Param Chhabra
 cover-img: "/img/path.jpg"
 ---

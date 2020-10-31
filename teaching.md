@@ -14,9 +14,9 @@ I have also served as teaching assistant for several courses at the Undergrad, G
 
 ### Teaching Evaluations
 
-* Average teaching rating for “Instructor effectiveness” is 4.79 out of 5, where 5 is excellent.
-* “Concern for students’ learning” (4.71)
-* “Accommodating nature” (4.87).
+* *Instructor effectiveness* - 4.79 out of 5, where 5 is excellent
+* *Concern for students’ learning* - 4.71 out of 5
+* *Accommodating nature* - 4.87 out of 5
 
 Please refer to my [Teaching Statement](https://drive.google.com/file/d/1HySroIrA78BWHwNt41104Z45hRUpCinM/view?usp=sharing) for more details.
 

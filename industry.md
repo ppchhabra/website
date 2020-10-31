@@ -7,7 +7,7 @@ subtitle: Param Chhabra
 I have almost thirteen years of engineering and managerial experience in the Aerospace Industry on developing new products.
 
 ### GE Aviation and Quest Global - Aero Engines (2013 - 2016)
-#### Staff Engineer/Technology Manager
+#### Staff Engineer/Technology Manager, Bangalore, India
 * Organized and drove FAA Certification efforts for the Leap-1B combustor case.
 * Empowered teams of 10-40 members through mentoring on GE9X/LEAP-1B engine module analyses.
 
@@ -25,6 +25,6 @@ I have almost thirteen years of engineering and managerial experience in the Aer
 * Established 10-15 member teams and delegated technical responsibilities on B747 and Cirrus Jet aircraft.
 
 ### DRDO, Ministry of Defence, Govt. of India (2001 - 2007)
-#### Scientist
+#### Scientist, Pune, India
 * Facilitated Design and Analysis of propulsion systems and supervised a team of 30+ for its static testing.
 * Developed automated mathematical modeling routines for analyses and manufacturing drawings for quick design iterations.

@@ -32,7 +32,7 @@ Being a PhD Candidate of *Operations Management* at Georgia Institute of Technol
   * Revenue Management and Pricing
   * Service Operations Management
 
-I am interested in teaching various quantitative and analytical courses in the field of ***Operations Management*** and ***Business Analytics***. 
+I am interested in teaching various quantitative and analytical courses in the fields of ***Operations Management*** and ***Business Analytics***. 
 
 ### Contact Details
 ![Param](img/squaremug.png){: width="300" height="300"}

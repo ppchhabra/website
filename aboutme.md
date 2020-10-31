@@ -32,6 +32,7 @@ These are the topics I'm broadly interested in:
   * Product Design
   * Revenue Management and Pricing
   * Service Operations Management
+
 I am interested in teaching various quantitative and analytical courses in the field of ***Operations Management*** and ***Business Analytics***. 
 
 ### Contact Details

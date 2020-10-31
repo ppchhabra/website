@@ -12,7 +12,7 @@ I have almost thirteen years of engineering and managerial experience in the Aer
 * Empowered teams of 10-40 members through mentoring on GE9X/LEAP-1B engine module analyses.
 
 ## Infosys Ltd. - Aero Structures (2007 - 2013)
-### Onsite Aircraft Wings Specialist - Triumph Aerostructures Vought Aircraft Division, Dallas, ,TX
+### Onsite Aircraft Wings Specialist - Triumph Aerostructures Vought Aircraft Division, Dallas, TX
 * Initiated and guided five projects on Bombardier 7000/8000 series aircraft at Triumph Aerostructures, TX, USA, generating work for 50+ resources for 5+ years.
 
 ### Engineering Lead - Bangalore, India

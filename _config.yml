@@ -20,7 +20,7 @@ description: PhD Candidate @ Georgia Institute of Technology.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me/Contact: "aboutme"
   Research: "https://ppchhabra.github.io/"
   Job Market: "jobmarket"
   Teaching Experience: "teaching"

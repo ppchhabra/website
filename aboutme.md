@@ -11,7 +11,7 @@ Being a PhD Candidate of *Operations Management* at Georgia Institute of Technol
 
 ### Education
 * Ph.D. in Operations Management, Georgia Tech Scheller College of Business, Atlanta, Georgia, USA (2016-2021, Expected)
-* M.E. in Aerospace Engineering, Indian Institute of Sciences, Bangalore, India
+* M.E. in Aerospace Engineering, Indian Institute of Science, Bangalore, India
 * B.Tech in Mechanical Engineering, NIT Jalandhar, India (Previously RECJ)
 
 

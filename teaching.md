@@ -14,7 +14,10 @@ I have also served as teaching assistant for several courses at the Undergrad, G
 
 ### Teaching Evaluations
 
-I conducted a student feedback survey at the end of the semester for my undergraduate *Operations Management* class in Spring 2020. I prepared this survey in Qualtrics, similar in content to the Course Instructor Opinion Survey (CIOS). Generally, Georgia Tech conducts CIOS every semester, but Georgia Tech decided not to run CIOS in Spring 2020 due to the change in teaching mode from in-person to virtual in the middle of the semester. My average teaching rating for “instructor effectiveness” is 4.79 out of 5, where 5 is excellent. I am also rated high for “concern for students’ learning” (4.71) and “accommodating nature” (4.87).
+* Average teaching rating for “Instructor effectiveness” is 4.79 out of 5, where 5 is excellent.
+* “Concern for students’ learning” (4.71)
+* “Accommodating nature” (4.87).
+Please refer to my [Teaching Statement](https://drive.google.com/file/d/1HySroIrA78BWHwNt41104Z45hRUpCinM/view?usp=sharing) for more details.
 
 ### Teaching Assistant
 

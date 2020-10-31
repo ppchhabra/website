@@ -34,6 +34,7 @@ I am interested in teaching various quantitative and analytical courses in the f
   * Revenue Management and Pricing
   * Service Operations Management
 
+
 ![Param](img/squaremug.png){: width="300" height="300"}
 
 ### Contact Details

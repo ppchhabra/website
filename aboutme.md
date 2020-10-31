@@ -31,7 +31,6 @@ I am interested in teaching various quantitative and analytical courses in the f
   * Supply Chain Management
   * Business Analytics
   * Product Design
-  * Management Information Systems
   * Revenue Management and Pricing
   * Service Operations Management
 

@@ -15,7 +15,6 @@ Being a PhD Candidate of *Operations Management* at Georgia Institute of Technol
 * B.Tech in Mechanical Engineering, [NIT Jalandhar](https://www.nitj.ac.in/), Jalandhar, India (Previously RECJ)
 
 ### Research Interests
-These are the topics I'm broadly interested in: 
   * Empirical Operations Management   
   * New Product Development
   * Crowdfunding                       

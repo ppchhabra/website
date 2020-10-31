@@ -34,10 +34,9 @@ I am interested in teaching various quantitative and analytical courses in the f
   * Revenue Management and Pricing
   * Service Operations Management
 
-
+### Contact Details
 ![Param](img/squaremug.png){: width="300" height="300"}
 
-### Contact Details
 Scheller College of Business\\
 Georgia Institute of Technology\\
 800 W Peachtree St NW, Atlanta, Georgia, USA-30308\\

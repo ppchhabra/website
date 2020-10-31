@@ -21,7 +21,7 @@ I have almost thirteen years of engineering and managerial experience in the Aer
 ### Onsite Fatigue Analysis Expert - Airbus, Toulouse, France
 * Initiated projects on A350 floor-beams at Airbus, Toulouse, France, generating work for onsite/offshore team of 10+ resources for 3+ years.
 
-#### Senior Design Engineer - Bangalore, India
+### Senior Design Engineer - Bangalore, India
 * Established 10-15 member teams and delegated technical responsibilities on B747 and Cirrus Jet aircraft.
 
 ## DRDO, Ministry of Defence, Govt. of India (2001 - 2007)

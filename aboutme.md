@@ -20,6 +20,18 @@ These are the topics I'm broadly interested in:
 * Interface of Operations, Finance, and Marketing     
 * Supply Chain Management
 
+### Teaching Interests
+
+I am interested in teaching various quantitative and analytical courses in the field of Operations Management and Business Analytics. 
+* Operations Management   
+* New Product Development
+* Supply Chain Management
+* Business Analytics
+* Product Design
+* Management Information Systems
+* Revenue Management and Pricing
+* Service Operations Management
+
 ### My History
 
 Before my Ph.D., I worked for over twelve years in the Aerospace domain at GE Aviation, Quest Global, Infosys Ltd., and Ministry of Defence managing projects on design and development of aerostructures and aero engines. I have also received a Bachelor of Technology degree from NIT Jalandhar, India, and Masters of Engineering degree from the Indian Institute of Science, Bangalore, India.

@@ -4,7 +4,7 @@ title: Industry Experience
 subtitle: Param Chhabra
 ---
 
-I have almost **thirteen years** of engineering and managerial experience in the *Aerospace Industry* on developing *New Products* with extensive experience in leading and mentoring small and large teams.
+I have almost **thirteen years** of engineering and managerial experience in the *Aerospace Industry* on developing *New Products* with extensive experience in leading and mentoring small/large teams.
 
 ### GE Aviation and Quest Global - Aero Engines (2013 - 2016)
 #### Staff Engineer/Technology Manager, Bangalore, India

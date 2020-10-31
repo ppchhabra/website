@@ -25,7 +25,6 @@ These are the topics I'm broadly interested in:
   * Supply Chain Management
 
 ### Teaching Interests
-I am interested in teaching various quantitative and analytical courses in the field of ***Operations Management*** and ***Business Analytics***. 
   * Operations Management   
   * New Product Development
   * Supply Chain Management
@@ -33,6 +32,7 @@ I am interested in teaching various quantitative and analytical courses in the f
   * Product Design
   * Revenue Management and Pricing
   * Service Operations Management
+I am interested in teaching various quantitative and analytical courses in the field of ***Operations Management*** and ***Business Analytics***. 
 
 ### Contact Details
 ![Param](img/squaremug.png){: width="300" height="300"}

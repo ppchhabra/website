@@ -10,9 +10,9 @@ cover-img: "/img/path.jpg"
 Being a PhD Candidate of *Operations Management* at Georgia Institute of Technology's [Scheller College of Business](https://www.scheller.gatech.edu/index.html), I am conducting empirical research in the fields of new product development, crowdfunding and innovation with a specific focus on improving outcomes of entrepreneurs and inventors under the supervision of [Manpreet Hora](https://www.scheller.gatech.edu/directory/faculty/hora/index.html) and [Karthik Ramachandran](https://www.scheller.gatech.edu/directory/faculty/ramachandran/index.html). I have also taught *Operations Management* undergraduate course as an instructor at the Scheller College of Business.
 
 ### Education
-* Ph.D. in Operations Management, Georgia Tech Scheller College of Business, Atlanta, Georgia, USA (2016-2021, Expected)
-* M.E. in Aerospace Engineering, Indian Institute of Science, Bangalore, India
-* B.Tech in Mechanical Engineering, NIT Jalandhar, India (Previously RECJ)
+* Ph.D. in Operations Management, [Georgia Tech Scheller College of Business](https://www.scheller.gatech.edu/index.html), Atlanta, Georgia, USA (2016-2021, Expected)
+* M.E. in Aerospace Engineering, [Indian Institute of Science](https://www.iisc.ac.in/), Bangalore, India
+* B.Tech in Mechanical Engineering, [NIT Jalandhar](https://www.nitj.ac.in/), Jalandhar, India (Previously RECJ)
 
 
 ### Research Interests

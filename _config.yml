@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Research: "https://ppchhabra.github.io/"
  # CV: "cv"
-  Job Market: "jobmarket"
   Teaching Experience: "teaching"
+  Job Market: "jobmarket"
   #Dataset: "dataset"
     
 #  Resources:

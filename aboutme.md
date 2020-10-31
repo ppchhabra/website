@@ -10,7 +10,6 @@ cover-img: "/img/path.jpg"
 Being a PhD Candidate of *Operations Management* at Georgia Institute of Technology's [Scheller College of Business](https://www.scheller.gatech.edu/index.html), I am conducting empirical research in the fields of new product development, crowdfunding and innovation with a specific focus on improving outcomes of entrepreneurs and inventors under the supervision of [Manpreet Hora](https://www.scheller.gatech.edu/directory/faculty/hora/index.html) and [Karthik Ramachandran](https://www.scheller.gatech.edu/directory/faculty/ramachandran/index.html). I have also taught *Operations Management* undergraduate course as an instructor at the Scheller College of Business.
 
 ### Research Interests
-
 These are the topics I'm broadly interested in: 
 * Empirical Operations Management   
 * New Product Development
@@ -21,8 +20,7 @@ These are the topics I'm broadly interested in:
 * Supply Chain Management
 
 ### Teaching Interests
-
-I am interested in teaching various quantitative and analytical courses in the field of Operations Management and Business Analytics. 
+I am interested in teaching various quantitative and analytical courses in the field of ***Operations Management*** and ***Business Analytics***. 
 * Operations Management   
 * New Product Development
 * Supply Chain Management
@@ -33,13 +31,11 @@ I am interested in teaching various quantitative and analytical courses in the f
 * Service Operations Management
 
 ### My History
-
 Before my Ph.D., I worked for over twelve years in the Aerospace domain at GE Aviation, Quest Global, Infosys Ltd., and Ministry of Defence managing projects on design and development of aerostructures and aero engines. I have also received a Bachelor of Technology degree from NIT Jalandhar, India, and Masters of Engineering degree from the Indian Institute of Science, Bangalore, India.
 
 ![Param](img/squaremug.png){: width="300" height="300"}
 
 ### Contact Details
-
 Scheller College of Business\\
 Georgia Institute of Technology\\
 800 W Peachtree St NW, Atlanta, Georgia, USA-30308\\

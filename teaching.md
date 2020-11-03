@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching Experience
+title: Teaching
 subtitle: Param Chhabra
 ---
 
@@ -27,4 +27,15 @@ Please refer to my [Teaching Statement](https://drive.google.com/file/d/1HySroIr
 * Operations Management (Undergrad, Spring 2018)
 * Supply Chain Modeling (Undergrad, Spring 2018)
 * Service Operations Management (MBA & Undergrad, Fall 2017)
+
+### Teaching Interests
+  * Operations Management   
+  * New Product Development
+  * Supply Chain Management
+  * Business Analytics
+  * Product Design
+  * Revenue Management and Pricing
+  * Service Operations Management
+
+I am interested in teaching various quantitative and analytical courses in the fields of ***Operations Management*** and ***Business Analytics***.
 

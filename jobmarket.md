@@ -23,18 +23,12 @@ I am on the **2020-2021 Academic Job Market**. I will be presenting at the *2020
 ### Professional References
 **[Dr. Manpreet Hora](https://www.scheller.gatech.edu/directory/faculty/hora/index.html)** (Co-advisor)\\
 Associate Professor of Operations Management\\
-Scheller College of Business, Georgia Institute of Technology\\
-Phone: +1-404-385-3465\\
-Email: [manpreet.hora@scheller.gatech.edu](mailto: manpreet.hora@scheller.gatech.edu)
+Scheller College of Business, Georgia Institute of Technology
 
 **[Dr. Karthik Ramachandran](https://www.scheller.gatech.edu/directory/faculty/ramachandran/index.html)** (Co-advisor)\\
 Associate Professor of Operations Management\\
-Scheller College of Business, Georgia Institute of Technology\\
-Phone: +1-404-894-8631\\
-Email: [karthik.ramachandran@scheller.gatech.edu](mailto: karthik.ramachandran@scheller.gatech.edu)
+Scheller College of Business, Georgia Institute of Technology
 
 **[Dr. Cheryl Gaimon](https://www.scheller.gatech.edu/directory/faculty/gaimon/index.html)**\\
 Esther and Edward J. Brown Jr. Chair; Regents' Professor of Operations Management\\
-Scheller College of Business, Georgia Institute of Technology\\
-Phone: +1-404-385-2409\\
-Email: [cheryl.gaimon@scheller.gatech.edu](mailto: cheryl.gaimon@scheller.gatech.edu)
+Scheller College of Business, Georgia Institute of Technology

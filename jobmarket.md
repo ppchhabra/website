@@ -11,9 +11,12 @@ I am on the **2020-2021 Academic Job Market**. I will be presenting at *2020 INF
 **Title**: “*Designing Reward Structure for Crowdfunding Campaigns*” \\
 **Session**: Virtual Room **TD41** \\
 **Date**: November 10, 2020 \\
-**Time**: 4:30 pm to 5:45 pm ET (2nd talk)
+**Time**: 4:30 pm to 5:45 pm ET (2^nd^ talk)
 
 ### DSI 2020 Annual Meeting
 
-•	Scheduled
+**Title**: “*Designing Reward Structure for Crowdfunding Campaigns*” \\
+**Session**: Session **INPD6** \\
+**Date**: November 23, 2020 \\
+**Time**: 12:00 pm to 1:15 pm US Pacific Time (1^st^ talk)
 

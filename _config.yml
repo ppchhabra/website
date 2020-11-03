@@ -25,7 +25,7 @@ navbar-links:
   Job Market: "jobmarket"
   Teaching: "teaching"
   Industry: "industry"
-  About Me/Contact: "aboutme"
+  About Me: "aboutme"
   #Dataset: "dataset"
     
 #  Resources:

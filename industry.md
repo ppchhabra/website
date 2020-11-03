@@ -4,7 +4,7 @@ title: Industry Experience
 subtitle: Param Chhabra
 ---
 
-I have almost **thirteen years** of engineering and managerial experience in the *Aerospace Industry* on developing *New Products* with extensive experience in leading and mentoring small/large teams.
+I have almost **thirteen years** of engineering and managerial experience in the *Aerospace Industry* developing *New Products* with extensive experience in leading and mentoring small/large teams.
 
 ### GE Aviation and Quest Global - Aero Engines (2013 - 2016)
 #### Staff Engineer/Technology Manager, Bangalore, India
@@ -19,7 +19,7 @@ I have almost **thirteen years** of engineering and managerial experience in the
 * Founded and advised an offshore team on the development of automation tools for fatigue analysis of A350 floor-beams.
 
 #### Onsite Fatigue Analysis Expert - Airbus, Toulouse, France
-* Initiated projects on A350 floor-beams at Airbus, Toulouse, France, generating work for onsite/offshore team of 10+ resources for 3+ years.
+* Initiated projects on A350 floor-beams at Airbus, Toulouse, France, generating work for an onsite/offshore team of 10+ resources for 3+ years.
 
 #### Senior Design Engineer - Bangalore, India
 * Established 10-15 member teams and delegated technical responsibilities on B747 and Cirrus Jet aircraft.

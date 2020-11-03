@@ -24,8 +24,8 @@ navbar-links:
   Research: "https://ppchhabra.github.io/"
   Publications: "publications"
   Job Market: "jobmarket"
-  Teaching Experience: "teaching"
-  Industry Experience: "industry"
+  Teaching: "teaching"
+  Industry: "industry"
   #Dataset: "dataset"
     
 #  Resources:

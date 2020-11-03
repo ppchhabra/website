@@ -18,10 +18,10 @@ Being a PhD Candidate of [Operations Management](https://www.scheller.gatech.edu
 
 ### Honors and Awards
 - Finalist, Chan Hahn Best Paper Award, OSCM Division - AOM 2019
-- Doctoral Student Fellowship, Georgia Tech - 2016-2021
+- Doctoral Student Fellowship, Georgia Tech - 2016 to 2021
 - Employee of the Month Award at GE Aviation - 2015
 - Engineering Excellence Award at Infosys - 2009
-- Winner, Science Day Paper Presentation Competition at DRDO - 2003-2005
+- Winner, Science Day Paper Presentation Competition at DRDO - 2003 to 2005
 
 ### Contact Details
 ![Param](img/squaremug.png){: width="300" height="300"}

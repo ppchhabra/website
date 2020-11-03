@@ -20,3 +20,11 @@ I am on the **2020-2021 Academic Job Market**. I will be presenting at the *2020
 **Date**: November 23, 2020 \\
 **Time**: 12:00 pm to 1:15 pm US Pacific Time (1st talk)
 
+### Professional References
+**[Dr. Manpreet Hora (Co-advisor)]**(https://www.scheller.gatech.edu/directory/faculty/hora/index.html)
+Associate Professor of Operations Management
+Scheller College of Business, Georgia Institute of Technology
+Phone: +1-404-385-3465
+Email: [mailto:manpreet.hora@scheller.gatech.edu]
+
+

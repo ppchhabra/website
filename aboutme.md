@@ -16,6 +16,13 @@ Being a PhD Candidate of [Operations Management](https://www.scheller.gatech.edu
 * M.E. in Aerospace Engineering, [Indian Institute of Science](https://www.iisc.ac.in/), Bangalore, India
 * B.Tech in Mechanical Engineering, [NIT Jalandhar](https://www.nitj.ac.in/), Jalandhar, India (Previously RECJ)
 
+### Honors and Awards
+- Finalist, Chan Hahn Best Paper Award, OSCM Division - AOM 2019
+- Doctoral Student Fellowship, Georgia Tech - 2016-2021
+- Employee of the Month Award at GE Aviation - 2015
+- Engineering Excellence Award at Infosys - 2009
+- Winner, Science Day Paper Presentation Competition at DRDO - 2003-2005
+
 ### Contact Details
 ![Param](img/squaremug.png){: width="300" height="300"}
 

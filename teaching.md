@@ -15,8 +15,8 @@ I have also served as a teaching assistant for several courses at the Undergrad,
 ### Teaching Evaluations
 
 * *Instructor effectiveness* - 4.79 out of 5, where 5 is excellent
-* *Concern for students’ learning* - 4.71 out of 5
-* *Accommodating nature* - 4.87 out of 5
+* *Concern for students’ learning* - 4.71
+* *Accommodating nature* - 4.87
 
 Please refer to my [Teaching Statement](https://drive.google.com/file/d/1HySroIrA78BWHwNt41104Z45hRUpCinM/view?usp=sharing) for more details.
 

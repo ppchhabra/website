@@ -5,7 +5,9 @@ subtitle: Param Chhabra
 cover-img: "/img/path.jpg"
 ---
 
-**Welcome!** This is my [CV](https://drive.google.com/file/d/1Fu2OzbBZbp10vbxTjxKYcSF-b2y0LDkd/view?usp=sharing). I am on the **2020-2021 Academic Job Market**.
+**Welcome!** 
+
+My name is **Param Chhabra**. I am on the **2020-2021 Academic Job Market**. This is my [CV](https://drive.google.com/file/d/1Fu2OzbBZbp10vbxTjxKYcSF-b2y0LDkd/view?usp=sharing).
 
 Being a PhD Candidate of *Operations Management* at Georgia Institute of Technology's [Scheller College of Business](https://www.scheller.gatech.edu/index.html), I am conducting empirical research in the fields of new product development, crowdfunding and innovation with a specific focus on improving outcomes of entrepreneurs and inventors under the supervision of [Manpreet Hora](https://www.scheller.gatech.edu/directory/faculty/hora/index.html) and [Karthik Ramachandran](https://www.scheller.gatech.edu/directory/faculty/ramachandran/index.html). I have also taught *Operations Management* undergraduate course as an instructor at the Scheller College of Business.
 

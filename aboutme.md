@@ -14,26 +14,6 @@ Being a PhD Candidate of *Operations Management* at Georgia Institute of Technol
 * M.E. in Aerospace Engineering, [Indian Institute of Science](https://www.iisc.ac.in/), Bangalore, India
 * B.Tech in Mechanical Engineering, [NIT Jalandhar](https://www.nitj.ac.in/), Jalandhar, India (Previously RECJ)
 
-### Research Interests
-  * Empirical Operations Management   
-  * New Product Development
-  * Crowdfunding                       
-  * Innovation and Entrepreneurship
-  * Operations of Online Platforms      
-  * Interface of Operations, Finance, and Marketing     
-  * Supply Chain Management
-
-### Teaching Interests
-  * Operations Management   
-  * New Product Development
-  * Supply Chain Management
-  * Business Analytics
-  * Product Design
-  * Revenue Management and Pricing
-  * Service Operations Management
-
-I am interested in teaching various quantitative and analytical courses in the fields of ***Operations Management*** and ***Business Analytics***. 
-
 ### Contact Details
 ![Param](img/squaremug.png){: width="300" height="300"}
 

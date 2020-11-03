@@ -4,6 +4,15 @@ title: Publications
 subtitle: Param Chhabra
 ---
 
+### Research Interests
+  * Empirical Operations Management   
+  * New Product Development
+  * Crowdfunding                       
+  * Innovation and Entrepreneurship
+  * Operations of Online Platforms      
+  * Interface of Operations, Finance, and Marketing     
+  * Supply Chain Management
+  
 ### Papers Under Review / In Progress
 1. **Chhabra PPS**, Hora MS, Ramachandran K (2020) Designing Reward Structure for Crowdfunding Campaigns. 
   * Status: Under Review, *Management Science*

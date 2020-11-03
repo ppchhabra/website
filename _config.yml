@@ -22,8 +22,8 @@ description: PhD Candidate @ Georgia Institute of Technology.
 navbar-links:
   Blog: "https://ppchhabra.github.io/" 
   Research: "research"
-  Teaching: "teaching"
   Job Market: "jobmarket"
+  Teaching: "teaching"
   Industry: "industry"
   About Me: "aboutme"
   #Dataset: "dataset"

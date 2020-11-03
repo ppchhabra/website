@@ -22,5 +22,5 @@ Being a PhD Candidate of *Operations Management* at Georgia Institute of Technol
 Scheller College of Business\\
 Georgia Institute of Technology\\
 800 W Peachtree St NW, Atlanta, Georgia, USA-30308\\
-Email: [param.chhabra@scheller.gatech.edu](mailto: param.chhabra@scheller.gatech.edu)\\
-Cell: +1-404-277-0259
+Cell: +1-404-277-0259\\
+Email: [param.chhabra@scheller.gatech.edu](mailto: param.chhabra@scheller.gatech.edu)

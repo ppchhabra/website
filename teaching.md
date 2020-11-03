@@ -4,13 +4,13 @@ title: Teaching
 subtitle: Param Chhabra
 ---
 
-I have taught an undergrad course on Operations Management at Georgia Tech Scheller College of Business in both **face-to-face** and **online** modes in **Spring 2020** due to the Pandemic. My teaching philosophy involves providing a stimulating environment where students with diverse backgrounds get an equal opportunity to clarify their doubts and learn to realize their full potential. This is my [Teaching Statement](https://drive.google.com/file/d/1HySroIrA78BWHwNt41104Z45hRUpCinM/view?usp=sharing).
+I have taught an undergrad course on Operations Management at Georgia Tech Scheller College of Business in both **face-to-face** and **online** modes in **Spring 2020** due to the Pandemic. My teaching philosophy involves providing a stimulating environment where students with diverse backgrounds get an equal opportunity to clarify their doubts and learn to realize their full potential. Here is my [Teaching Statement](https://drive.google.com/file/d/1HySroIrA78BWHwNt41104Z45hRUpCinM/view?usp=sharing).
 
-I have also served as teaching assistant for several courses at the Undergrad, Graduate and Exec-Ed levels.
+I have also served as a teaching assistant for several courses at the Undergrad, Graduate, and Exec-Ed levels.
 
 ### Teaching Experience
 
-* Instructor for *Operations Management* core course for undergrad business students in Spring 2020.
+* Instructor for the *Operations Management* (undergrad) core course in Spring 2020.
 
 ### Teaching Evaluations
 
@@ -37,5 +37,5 @@ Please refer to my [Teaching Statement](https://drive.google.com/file/d/1HySroIr
   * Revenue Management and Pricing
   * Service Operations Management
 
-I am interested in teaching various quantitative and analytical courses in the fields of ***Operations Management*** and ***Business Analytics***.
+I am interested in teaching various quantitative and analytical courses in ***Operations Management*** and ***Business Analytics***.
 

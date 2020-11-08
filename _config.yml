@@ -26,6 +26,7 @@ navbar-links:
   Teaching: "teaching"
   Industry: "industry"
   About Me: "aboutme"
+  CV: "cv"
   #Dataset: "dataset"
     
 #  Resources:

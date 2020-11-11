@@ -12,7 +12,7 @@ I am on the **2020-2021 Academic Job Market**. I will be presenting at the *2020
 **Session**: Virtual Room **TD41** \\
 **Date**: November 10, 2020 \\
 **Time**: 4:30 pm to 5:45 pm EST (2nd talk)\\
-My INFORMS talk is available [here](https://drive.google.com/file/d/1ZkyJouRgZxzFHdakmZ7yMLHDnFPsjUz2/view?usp=sharing).
+My INFORMS talk is available [here](https://www.dropbox.com/sh/ig352gyfa7vflld/AAD7PxvkSVBNLJgONbfF7w3Ra?dl=0).
 
 ### DSI 2020 Annual Meeting
 

@@ -19,7 +19,7 @@ My INFORMS talk is available [here](https://www.dropbox.com/sh/ig352gyfa7vflld/A
 **Title**: “*Designing Reward Structure for Crowdfunding Campaigns*” \\
 **Session**: Session **INPD6** \\
 **Date**: November 23, 2020 \\
-**Time**: 12:00 pm to 1:15 pm US Pacific Time (1st talk)
+**Time**: 12:00 pm to 1:15 pm US Pacific Time (1st talk)\\
 My DSI talk is available [here](https://decisionsciences.pathable.co/meetings/virtual/3ydsffY9uN5SbFdM4) (2020 DSI Annual Conference login required).
 
 ### Professional References

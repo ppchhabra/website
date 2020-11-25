@@ -40,26 +40,3 @@ Georgia Institute of Technology\\
 800 W Peachtree St NW, Atlanta, Georgia, USA-30308\\
 Email: [param.chhabra@scheller.gatech.edu](mailto: param.chhabra@scheller.gatech.edu)\\
 Cell: +1-404-277-0259
-
-<table class="imgtable"><tr><td>
-<img src="img/squaremug.png" alt="Maxime Cohen" height="285" width="285" />&nbsp;</td>
-<td align="left"><p><b>Param Chhabra</b><br />
-Ph.D. Candidate, 
-<a href="https://www.scheller.gatech.edu/directory/phd/chhabra/index.html"</a> Scheller College of Business</a><br />
-Georgia Institute of Technology<br />
-800 W Peachtree St NW, Atlanta, Georgia, USA-30308<br />
-Email: [param.chhabra@scheller.gatech.edu](mailto: param.chhabra@scheller.gatech.edu)\\
-Cell: +1-404-277-0259
-</td>
-<td>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-
-<!-- <td align="center">
-<h3><a href="http://web.mit.edu/"> <img src="mit-redgrey-header2.gif"
-  alt="MIT" width="194" height="70" border="0"></a></h3>
-<h3><a href="http://web.mit.edu/orc/www/index.html">
-<img src="orc_logo.jpg" alt="ORC Logo" /></a></h3>
-</td> -->
-
-</tr></table>

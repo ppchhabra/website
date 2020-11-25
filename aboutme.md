@@ -5,7 +5,7 @@ subtitle: Param Chhabra
 cover-img: "/img/path.jpg"
 ---
 
-**Welcome to my academic website!** 
+**A warm welcome!** 
 
 I am **Param Chhabra**, and I am on the **2020-2021 Academic Job Market**. This is my [CV](https://drive.google.com/file/d/1Fu2OzbBZbp10vbxTjxKYcSF-b2y0LDkd/view?usp=sharing).
 

@@ -44,12 +44,12 @@ Cell: +1-404-277-0259
 <table class="imgtable"><tr><td>
 <img src="img/squaremug.png" alt="Maxime Cohen" height="285" width="285" />&nbsp;</td>
 <td align="left"><p><b>Param Chhabra</b><br />
-Ph.D. Candidate, <a href="https://www.scheller.gatech.edu/directory/phd/chhabra/index.html"</a> Georgia Tech Scheller College of Business</a><br />
-Scheller College of Business<br /> 
+Ph.D. Candidate, 
+<a href="https://www.scheller.gatech.edu/directory/phd/chhabra/index.html"</a> Scheller College of Business</a><br />
 Georgia Institute of Technology<br />
 800 W Peachtree St NW, Atlanta, Georgia, USA-30308<br />
-Email: [param.chhabra@scheller.gatech.edu](mailto: param.chhabra@scheller.gatech.edu)<br />
-Cell: +1-404-277-0259<br />
+Email: [param.chhabra@scheller.gatech.edu](mailto: param.chhabra@scheller.gatech.edu)\\
+Cell: +1-404-277-0259
 </td>
 <td>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>

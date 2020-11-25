@@ -24,7 +24,7 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Job Market: "jobmarket"
-  CV: "cv"
+  #CV: "cv"
   Teaching: "teaching"
   Industry: "industry"
   #Dataset: "dataset"

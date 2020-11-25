@@ -42,17 +42,14 @@ Email: [param.chhabra@scheller.gatech.edu](mailto: param.chhabra@scheller.gatech
 Cell: +1-404-277-0259
 
 <table class="imgtable"><tr><td>
-<img src="img/squaremug.png" alt="Maxime Cohen" height="285" width="245" />&nbsp;</td>
-<td align="left"><p><b>Maxime C. Cohen</b><br />
-Associate Professor, <a href="https://www.mcgill.ca/"</a> McGill University</a><br />
-Co-Director, <a href="https://www.mcgill.ca/bensadoun-school/mril"</a> McGill Retail Innovation Lab</a> <br />
-Bensadoun Faculty Scholar <br />
-Associate Member, <a href="https://www.mcgill.ca/ece/"</a>Electrical and Computer Engineering Department</a> (by courtesy) <br />
-Member of <a href="https://www.cirrelt.ca/"</a> CIRRELT </a> <br />
-Scientific Advisor in AI and Data Science at <a href="https://ivadolabs.com/"</a> IVADO Labs </a> <br />
-Advisor @<a href="https://sarona.vc"</a> Sarona Ventures</a> <br />
-Data Science and AI @<a href="https://conflictanalytics.queenslaw.ca/"</a> Conflict Analytics Lab</a> and @<a href="https://myopencourt.org/"</a> MyOpenCourt.org</a> </p>
-
+<img src="img/squaremug.png" alt="Maxime Cohen" height="285" width="285" />&nbsp;</td>
+<td align="left"><p><b>Param Chhabra</b><br />
+Ph.D. Candidate, <a href="https://www.scheller.gatech.edu/directory/phd/chhabra/index.html"</a> Georgia Tech Scheller College of Business</a><br />
+Scheller College of Business<br /> 
+Georgia Institute of Technology<br />
+800 W Peachtree St NW, Atlanta, Georgia, USA-30308<br />
+Email: [param.chhabra@scheller.gatech.edu](mailto: param.chhabra@scheller.gatech.edu)<br />
+Cell: +1-404-277-0259<br />
 </td>
 <td>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>

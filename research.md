@@ -14,7 +14,7 @@ subtitle: Param Chhabra
   * Supply Chain Management
   
 ### Papers Under Review / In Progress
-1. **Chhabra PPS**, Hora MS, Ramachandran K (2020) Designing Reward Structure for Crowdfunding Campaigns. 
+1. **Chhabra PPS**, Hora MS, Ramachandran K (2020) Designing Reward Structure for Crowdfunding Campaigns. [SSRN](http://ssrn.com/abstract=3742853)
  - Status: Under Review, *Management Science* (Job Market Paper)
 2. **Chhabra PPS**. Impact of Platform Evaluation Mechanism on Crowdfunding Campaigns. 
  - Status: Work-in-Progress Project

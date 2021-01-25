@@ -28,8 +28,8 @@ subtitle: Param Chhabra
 
 ### Conference Presentations
 1. Designing Reward Structure for Crowdfunding Campaigns
- - INFORMS 2020 Virtual Annual Meeting (Scheduled) - November 2020
- - DSI 2020 Annual Conference (Scheduled) - November 2020
+ - INFORMS 2020 Virtual Annual Meeting - November 2020
+ - DSI 2020 Annual Conference - November 2020
  - Kellogg-Wharton OM Workshop - July 2020
  - INFORMS 2019 Annual Meeting, Seattle, WA - October 2019
  - POMS 2019 Annual Meeting, Washington, D.C. - June 2019

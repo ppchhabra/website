@@ -15,7 +15,7 @@ subtitle: Param Chhabra
   
 ### Papers Under Review / In Progress
 1. **Chhabra PPS**, Hora MS, Ramachandran K (2020) [Designing Reward Structure for Crowdfunding Campaigns.](http://ssrn.com/abstract=3742853)
- - Status: Under Review, *Management Science* (Job Market Paper)
+ - Status: Reject and Resubmit, *Management Science* (Job Market Paper)
 2. **Chhabra PPS**. Impact of Platform Evaluation Mechanism on Crowdfunding Campaigns. 
  - Status: Work-in-Progress Project
 3. **Chhabra PPS**, Hora MS, Ramachandran K (2020) Patent Grant Delays and Future Innovative Activities. 

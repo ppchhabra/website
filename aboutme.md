@@ -31,6 +31,7 @@ Being a PhD Candidate of [Operations Management](https://www.scheller.gatech.edu
   - Provided support to Dr. Gaimon in her research activities and in her position as Department Editor, Production and Operations Management.
 - Session Chair
   - POMS 2020 Annual Meeting: Co-chaired a session entitled "Entrepreneurship, Innovation and Crowdfunding" with Dr. Morvarid Rahmani in PITM track (Finalized the session but the event got canceled due to COVID-19 pandemic).
+  - POMS 2021 Annual Meeting: Co-chair for the session entitled "Entrepreneurship, Innovation and Crowdfunding" with Dr. Morvarid Rahmani in PITM track.
 - Eitorial Support for OM e-Newsletter, Scheller College of Business - 2018 to 2020
 - Reviewer for AOM (annual meeting), DSI (annual meeting)
 - Member of INFORMS, M&SOM, POMS, AOM, and DSI

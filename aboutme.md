@@ -11,7 +11,7 @@ I am **Param Chhabra**, and I am on the **2020-2021 Academic Job Market**. This 
 
 Being a PhD Candidate of [Operations Management](https://www.scheller.gatech.edu/academics/operations-management.html) at Georgia Institute of Technology's [Scheller College of Business](https://www.scheller.gatech.edu/index.html), I am conducting empirical research in New Product Development, Crowdfunding, and Innovation with a specific focus on improving outcomes of entrepreneurs and inventors under the supervision of [Manpreet Hora](https://www.scheller.gatech.edu/directory/faculty/hora/index.html) and [Karthik Ramachandran](https://www.scheller.gatech.edu/directory/faculty/ramachandran/index.html). I have also taught *Operations Management* undergraduate course as an instructor at the Scheller College of Business.
 
-#Media Mention: [Designing the Best Reward Structure for Crowdfunding Campaigns](https://www.scheller.gatech.edu/centers-initiatives/business-analytics-center/research/posts/designing-the-best-reward-structure-for-crowdfunding-campaigns.html), Business Analytics Center, Scheller College of Business, Februaru, 2020.
+# Media Mention: [Designing the Best Reward Structure for Crowdfunding Campaigns](https://www.scheller.gatech.edu/centers-initiatives/business-analytics-center/research/posts/designing-the-best-reward-structure-for-crowdfunding-campaigns.html), Business Analytics Center, Scheller College of Business, Februaru, 2020.
 
 ### Education
 * Ph.D. in Operations Management, [Georgia Tech Scheller College of Business](https://www.scheller.gatech.edu/index.html), Atlanta, Georgia, USA (2016-2021, Expected)

@@ -2,6 +2,7 @@
 layout: page
 title: Industry Experience
 subtitle: Param Chhabra
+full-width: true
 ---
 
 I have almost **thirteen years** of engineering and managerial experience in the *Aerospace Industry* developing *New Products* with extensive experience in leading and mentoring small/large teams.

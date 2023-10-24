@@ -3,6 +3,7 @@ layout: page
 title: About Me
 subtitle: Param Chhabra
 cover-img: "/img/trial.png"
+full-width: true
 ---
 
 **A warm welcome!** 

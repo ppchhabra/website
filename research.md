@@ -2,6 +2,7 @@
 layout: page
 title: Research
 subtitle: Param Chhabra
+full-width: true
 ---
 
 ### Research Interests

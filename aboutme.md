@@ -45,4 +45,4 @@ University of Alberta\\
 3-40J Business Building, 11203 Saskatchewan Drive NW, Edmonton
 AB, Canada T6G 2R6\\
 Email: [param.chhabra@ualberta.ca](mailto: param.chhabra@ualberta.ca)\\
-Cell: +1 (780)492-1145
+Phone: +1 (780)492-1145
